@@ -27,5 +27,5 @@
 ---
 
 ### 🔗 Contacto
-📧 Email: tuemail@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/tuusuario
+📧 Email: ingenierorangerxmlv1@hotmail.com
+💼 LinkedIn: [https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/franklim-de-j-m-60255b311/)
