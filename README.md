@@ -29,4 +29,5 @@
 ### 🔗 Contacto
 📧 Email: ingenierorangerxmlv1@hotmail.com
 💼 LinkedIn: [https://www.linkedin.com/in/franklim-de-j-m-60255b311/](https://www.linkedin.com/in/franklim-de-j-m-60255b311/)
-@Whatsapp: 302 213 03 74
+### Phone
+@Whatsapp: +57 302 213 03 74
