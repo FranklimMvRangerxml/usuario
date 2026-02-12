@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Franklim Muñoz</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="./1768320353963.jpg" width="300"/>
 </p>
 
 <h3 align="center">🚀 Desarrollador Fullstack | Mobile | Cloud</h3>
