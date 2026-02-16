@@ -1,144 +1,92 @@
-<h1 align="center">👋 Hola, soy Franklim Muñoz</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00b4d8&height=200&section=header&text=Franklim%20Muñoz&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</h1>
 
 <p align="center">
-  <img src="./1768320353963.jpg" width="300"/>
-</p>
-
-<h3 align="center">🚀 Desarrollador Fullstack | Mobile | Cloud</h3>
-
----
-
-## 🧠 Sobre mí
-
-💻 Profesional en Ingeniería de Sistemas  
-🚀 Desarrollador Full-Stack apasionado por la innovación tecnológica  
-📊 Enfoque en soluciones escalables, cloud y arquitecturas modernas  
-⚡ Experiencia en backend, frontend, mobile y despliegues en producción  
-
----
-
-## 🛠️ Tecnologías Principales
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,typescript,tailwind,java,spring,php,python,fastapi,mysql,postgres,mongodb,docker,kubernetes,nginx,linux,aws,gcp,azure,firebase" />
+  <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEVELOPER-00b4d8?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-CLOUD%20%26%20SCALABILITY-0077b6?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🧩 Entornos de Desarrollo (IDE)
+## 🛰️ System Overview
+> **Status:** Active & Innovating  
+> **Specialization:** Systems Engineering | Modern Architectures | Cloud Solutions
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio,visualstudio,pycharm,netbeans,xcode" />
-</p>
-
-Visual Studio Code | Eclipse | IntelliJ IDEA | Android Studio  
-Visual Studio (.NET) | PyCharm | NetBeans | Xcode  
-
----
-
-## 🔄 Control de Versiones
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
-</p>
-
----
-
-## 🌐 Servidores y Herramientas Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=apache,nginx,nodejs,docker,kubernetes" />
-</p>
-
-Apache | Nginx | Tomcat | Node.js | Docker | Kubernetes  
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Sobre mí</h3>
+      <ul>
+        <li>🚀 Apasionado por la innovación tecnológica.</li>
+        <li>📊 Enfoque en soluciones escalables y arquitecturas modernas.</li>
+        <li>⚡ Experto en el ciclo de vida completo del software (SDLC).</li>
+        <li>🇨🇴 Basado en Cali, Colombia.</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="./1768320353963.jpg" width="220" style="border-radius: 20px; border: 2px solid #00b4d8;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🗄️ Bases de Datos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+## 🛠️ Tech Stack Core
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,typescript,tailwind,java,spring,php,python,fastapi,mysql,postgres,mongodb,docker,kubernetes,nginx,linux,aws,gcp,azure,firebase&perline=11" />
 </p>
 
-MySQL | MariaDB | PostgreSQL | SQL Server | Oracle | MongoDB | SQLite  
+### 🖥️ Dev Environment & Infrastructure
+| Category | Tools |
+| :--- | :--- |
+| **IDEs** | `VS Code` `IntelliJ IDEA` `Android Studio` `Xcode` `PyCharm` |
+| **DevOps** | `Docker` `Kubernetes` `Nginx` `Apache` `Git` `CI/CD` |
+| **Cloud** | `AWS` `GCP` `Azure` `Firebase` |
+| **Databases** | `PostgreSQL` `MySQL` `MongoDB` `SQL Server` `Oracle` |
 
 ---
 
-## ☁️ Plataformas Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase" />
-</p>
-
-AWS | Google Cloud Platform | Microsoft Azure | Firebase  
-
----
-
-## 🧑‍💼 Experiencia Laboral
-
+## 💼 Experience Log
 ### 🏛️ Alcaldía de Santiago de Cali
-- Desarrollo con React
-- Configuración y despliegue con Nginx
-- Node.js y Docker
-- Programación reactiva, concurrente y paralela
-- Arquitectura estructurada
+**Full-Stack Developer**
+- Despliegue de microservicios con **Docker & Nginx**.
+- Implementación de programación reactiva y concurrente.
+- Arquitecturas estructuradas de alto rendimiento.
 
 ### ⚡ Emcali Servicios
-- Instalación y optimización de sistemas
-- Configuración BIOS/UEFI
-- Diagnóstico de hardware (RAM, discos, temperatura)
-- Formateo profesional y activación legal
-- Soporte técnico integral
-
-### 🎓 Sena y otros
-- Monitorías en:
-  - Variables y algoritmos
-  - Diagramas y pseudocódigo
-  - Arrays, vectores y matrices
-  - Fundamentos de programación
+**Infrastructure Specialist**
+- Optimización crítica de sistemas y diagnóstico de hardware.
+- Gestión de entornos **BIOS/UEFI** y despliegues profesionales.
 
 ---
 
-## 📂 Proyectos y Colaboraciones
-
-Tecnologías utilizadas en proyectos reales:
-
-Node.js | FastAPI | React | MySQL | PHP | HTML | CSS | Java | Cloud
+## 📂 Featured Projects
+`Node.js` • `FastAPI` • `React` • `Microservices` • `Cloud Native`
 
 ---
 
-## 🎓 Educación
-
-🎓 Profesional en Ingeniería de Sistemas  
-💻 Técnico en Desarrollo de Software  
-📊 Innovación y Prospectiva  
-🗄️ Bases de Datos & Big Data  
-🎓 Bachiller  
-
----
-
-## 📊 Estadísticas GitHub
-
+## 📊 Neural Activity (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 🤝 Comunicación y Colaboración
+## 🤝 Protocolos de Comunicación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=slack,discord,notion,word,excel" />
+</p>
 
-Slack | Discord | Microsoft Teams | Zoom  
-Trello | Jira | Notion  
-Google Workspace | Word | Excel | PowerPoint  
+- **Agile:** Jira | Trello | Notion
+- **Collaboration:** Teams | Zoom | Google Workspace
 
----
-
-## 🔗 Contacto
-
-📧 Email: ingenierorangerxmlv1@hotmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/franklim-de-j-m-60255b311/  
-📱 WhatsApp: +57 302 213 03 74  
-
----
+## 🔗 Connect with the Grid
+<p align="left">
+  <a href="mailto:ingenierorangerxmlv1@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/franklim-de-j-m-60255b311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/573022130374"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 <h3 align="center">⚡ “La tecnología es mejor cuando acerca a las personas.” ⚡</h3>
