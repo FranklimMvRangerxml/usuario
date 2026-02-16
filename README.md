@@ -1,12 +1,33 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00b4d8&height=200&section=header&text=Franklim%20Muñoz&fontSize=70&animation=fadeIn&fontAlignY=38" />
-</h1>
+---
+
+## 📊 Neural Network Status (Widgets)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEVELOPER-00b4d8?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOCUS-CLOUD%20%26%20SCALABILITY-0077b6?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&bg_color=0f172a&hide_border=true&border_radius=10" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&title_color=0ea5e9&text_color=94a3b8&bg_color=0f172a&hide_border=true&border_radius=10" width="43%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&fire=0ea5e9&ring=0ea5e9&sideNums=94a3b8&currStreakLabel=0ea5e9" width="92%" />
+</p>
+
+---
+
+## 🛠️ System Components (Tech Icons dinámicos)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,java,spring,postgres,docker,aws,github&theme=dark" />
+</p>
+
+---
+
+## 📈 Activity Pulse (Snake Game - Widget Animado)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
 ---
 
 ## 🛰️ System Overview
